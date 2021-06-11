@@ -1,0 +1,9 @@
+/* pages/health/health.wxss */
+
+
+.health{
+  color: green;
+  height: 100px;
+
+
+}

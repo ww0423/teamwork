@@ -1,0 +1,15 @@
+
+<view class="mainView">
+   <image src="/images/supportplat.png"></image>
+
+</view>
+
+
+<view class="head" style="flex-direction:row;">
+  
+    <button bindtap="starRun">开始</button>
+    <button bindtap="stopRun">暂停</button>
+    <button bindtap="end">结束</button>
+    <text>\n\n时间：{{time}}</text>
+</view>
+

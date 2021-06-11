@@ -1,0 +1,56 @@
+{
+  "pages":[
+    "pages/health/health",
+    "pages/sport/sport",
+    "pages/Eqpmt/Eqpmt",
+    "pages/Mine/Mine",
+    "pages/update/update",
+    
+    "pages/Nofsteps/Nofsteps",
+    "pages/run/run",
+    "pages/pushup/pushup",
+    "pages/supportplat/supportplat",
+
+    "pages/index/index",
+    "pages/logs/logs"
+ 
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Weixin",
+    "navigationBarTextStyle":"black"
+  },
+"tabBar": {
+  
+  "list": [{
+    "pagePath": "pages/health/health",
+    "text": "",
+    "iconPath": "/images/1.1.jpg",
+    "selectedIconPath": "/images/1.2.jpg"
+  },{
+    "pagePath": "pages/sport/sport",
+    "text": "",
+    "iconPath": "/images/2.1.jpg",
+    "selectedIconPath": "/images/2.2.jpg"
+  },{
+    "pagePath": "pages/Eqpmt/Eqpmt",
+    "text": "",
+    "iconPath": "/images/3.1.jpg",
+    "selectedIconPath": "/images/3.2.jpg"
+  },{
+    "pagePath": "pages/Mine/Mine",
+    "text": "",
+    "iconPath": "/images/4.1.jpg",
+    "selectedIconPath": "/images/4.2.jpg"
+  }]
+},
+"permission": {
+  "scope.userLocation": {
+    "desc": "你的位置信息将用于小程序位置接口的效果展示" 
+  }
+}
+ ,
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

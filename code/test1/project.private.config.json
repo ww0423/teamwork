@@ -1,0 +1,23 @@
+{
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "pages/updateplan/updateplan",
+          "pathName": "pages/updateplan/updateplan",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,17 @@
+<!--pages/news/news.wxml-->
+<view class="box" hover-class="boxhover" >
+  <image class="img1" mode="" show-menu-by-longpress=""  src="http://static.zongheng.com/upload/cover/2012/11/1352563034955.jpg"></image>
+  <view class="item" hover-class="a" hover-stop-propagation="aa">xinsh</view>
+
+
+</view>
+
+
+
+<view>
+<navigator class="link" url="/pages/logs/logs">taozhuanrizhi</navigator>
+
+
+</view>
+
+<text selectable space="nbsp">111da                  sdadasdad</text>

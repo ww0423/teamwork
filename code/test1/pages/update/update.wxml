@@ -1,0 +1,12 @@
+<view>
+<button bindtap="updateplan">更新计划</button>
+<view>俯 平 跑</view>
+<view>卧 板 步</view>
+<view>撑 撑 距</view>
+<view>次 秒 离</view>
+<view> {{jihua}}</view>
+
+<button bindtap="acceptplan">接受计划</button>
+<button bindtap="disacceptplan">拒绝计划</button>
+<button bindtap="reducehard">降低难度</button>
+</view>

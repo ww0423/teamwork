@@ -1,0 +1,3 @@
+<view class="sport" bindtap="torun">跑步</view>
+<view class="sport" bindtap="topushup">俯卧撑</view>
+<view class="sport" bindtap="tosupportplat">平板支持</view>

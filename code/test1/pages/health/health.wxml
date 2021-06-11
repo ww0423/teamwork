@@ -1,0 +1,19 @@
+<view class="health" bindtap="tofeets">
+  今日步数
+</view>
+
+<view class="health">
+  中高强度运动
+</view>
+
+<view class="health">
+  消耗
+</view>
+
+<view class="health" bindtap="toupdateplan">
+  运动记录
+</view >
+
+<view class="health">
+  肤质
+</view>
